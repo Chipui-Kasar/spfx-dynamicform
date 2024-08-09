@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "dynamic-form-look-alike-client-side-solution",
+    "id": "73a19d8d-ee47-460c-90dc-16165a0ae480",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "dynamic-form-look-alike description"
+      },
+      "longDescription": {
+        "default": "dynamic-form-look-alike description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "dynamic-form-look-alike Feature",
+        "description": "The feature that activates elements of the dynamic-form-look-alike solution.",
+        "id": "415933bc-4a23-44d5-8322-0f9afe5df557",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/dynamic-form-look-alike.sppkg"
+  }
+}

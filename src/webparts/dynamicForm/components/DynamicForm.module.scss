@@ -1,0 +1,12 @@
+@import "~@fluentui/react/dist/sass/References.scss";
+
+.dynamicForm {
+  overflow: hidden;
+  color: var(--bodyText);
+  &.teams {
+    font-family: $ms-font-family-fallbacks;
+  }
+  .placeHolder {
+    width: 100%;
+  }
+}

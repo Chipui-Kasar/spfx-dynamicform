@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.18.2",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.0",
+    "libraryName": "dynamic-form-look-alike",
+    "libraryId": "73a19d8d-ee47-460c-90dc-16165a0ae480",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "dynamic-form-look-alike",
+    "solutionShortDescription": "dynamic-form-look-alike description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
